@@ -1,0 +1,2 @@
+# PyQt和serial实现的LED控制系统
+单片机实训作业，使用上位机通过串口控制MSP430的LED，使用了PyQt和serial完成界面设计和串口通信。
